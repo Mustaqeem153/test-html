@@ -1,0 +1,27 @@
+body {
+    font-size: 15pt;
+}
+h1{color:lightblue;
+  background: black
+}
+p{color:black;
+  background :lightblue
+}
+img{width: 300px;
+height: 300px
+}
+h2{color:black;
+  background : lightblue
+}
+picture{color: black;
+  background: lightblue 
+}
+p2 {color: skyblue;
+  background: white
+}
+h3{color:white ;
+  background: black
+}
+h4{color:firebrick;
+  background: black
+}
