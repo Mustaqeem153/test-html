@@ -2,26 +2,41 @@ body {
     font-size: 15pt;
 }
 h1{color:lightblue;
-  background: black
+  background: black ;
+  border-radius: 10pt;
+  
 }
 p{color:black;
-  background :lightblue
+  background :lightblue;
+  border-radius : 4pt 
 }
 img{width: 300px;
 height: 300px
 }
 h2{color:black;
-  background : lightblue
+  background : lightblue;
+  border-radius: 20pt ; border-radius: 6pt
 }
 picture{color: black;
-  background: lightblue 
+  background: lightblue ;
+  border-radius: 4pt ;
+  
 }
 p2 {color: skyblue;
   background: white
 }
 h3{color:white ;
-  background: black
+  background: black;
+  border-radius: 5pt
 }
 h4{color:firebrick;
-  background: black
+  background: black;
+border-radius: 5pt
 }
+button{width: 150px;
+  height : 30px ;
+  color: black ; 
+  border-radius: 20pt ;
+  background-color: red
+  
+ }
